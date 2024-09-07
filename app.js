@@ -16,6 +16,7 @@ function AITuberApp() {
   };
 
   const generateResponse = (userInput) => {
+    // 簡単な応答生成ロジック（実際のプロジェクトではより高度な実装が必要）
     const responses = [
       "なるほど、興味深いですね！",
       "そうなんですか？もっと詳しく教えてください。",
